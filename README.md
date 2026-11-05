@@ -1,2 +1,22 @@
-# HeightEase-VR
-A VR-based gradual exposure simulation designed to support acrophobia research and therapeutic training through controlled virtual height environments.
+# HeightEase VR
+
+HeightEase VR is a virtual reality project focused on gradual exposure to height-related environments.
+
+The project aims to simulate controlled virtual height scenarios for acrophobia research and therapeutic training.
+
+## Features
+- Gradual height exposure
+- Interactive VR environments
+- Behavioral data collection
+- Self-reported fear assessment
+
+## Built With
+- Unity
+- C#
+- OpenXR
+
+## Target Device
+HTC Vive Focus Vision
+
+## Project Status
+Under Development
